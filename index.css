@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+
+.titulo{
+    color: red;
+    background-color: aqua;
+}
+
+.faq{
+    background-color: red;
+    width: 80%;
+    margin: 0 auto;
+    list-style: none;
+}
+.faq li{
+    background-color: #343434;
+}
+.faq summary{
+    padding: 16px;
+}
+.faq p{
+    background-color: #454545;
+    padding: 16px;
+    color: #fff;
+font-family: Arial, Helvetica, sans-serif;
+}
